@@ -1,6 +1,6 @@
 a = input("Data: ").split()
 feq = [0]
-stringData = []
+stringData = [""]
 
 def checker(data):
     counter = 0
