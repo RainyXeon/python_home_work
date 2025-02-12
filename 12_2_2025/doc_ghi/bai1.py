@@ -1,0 +1,1 @@
+open('./OUT', 'w+', encoding='utf8').write(str(sum([int(i) for i in input().split(' ')])))

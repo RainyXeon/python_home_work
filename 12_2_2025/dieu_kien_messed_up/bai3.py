@@ -1,0 +1,1 @@
+for i in sorted([int(x) for x in input().split(' ')], reverse=True): print(i)
